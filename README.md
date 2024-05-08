@@ -1,5 +1,5 @@
 # Simple-Linear-Regression-for-Salary-Data
-# Project Title: 
+## Project Title: 
 Linear Regression: Years of Experience vs. Salary
 # Description: 
 This project demonstrates a simple linear regression analysis using scikit-learn to predict salary based on years of experience. It includes visualization of the scatter plot and the regression line.
